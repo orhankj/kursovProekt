@@ -1,0 +1,8 @@
+audi q6 1 5 2334.0 21.0 24.0 3 waawre-wraet-awre
+mercedes benz 1 4 2564.0 12.0 234.0 2 ewae-aesr-wae
+honda civic 1 2 2345.0 23.0 23.0 4 wafsdt0w-ertr-r
+audi enzo 1 2 234.0 21.0 12.0 2 wae-weer-ergt
+tesla t200 1 5 245.0 21.0 23.0 4 ergtre-ertr-er
+audi c300 1 4 2345.0 12.0 32.0 4 wqertr-erftrrt-wes
+audi a3 1 5 2145.0 12.0 23.0 2 awjwaeoi-weqiojeq-wqe
+honda jetta 3 4 3000.8 12.5 25.2 5 wqeijiqew-eqwr-rt
